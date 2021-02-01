@@ -6,4 +6,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMoraesKS&show_icons=true&theme=dark)
 
-<figure><embed src="https://wakatime.com/share/@4a6defb6-cf46-4c0a-b6fa-90661c57ae59/8d0f11e3-7098-47f3-b629-b7bc347794a1.svg"></embed></figure>
+ <img src="https://wakatime.com/share/@4a6defb6-cf46-4c0a-b6fa-90661c57ae59/790fb7ea-e9e9-4f66-a741-d092d7afd624.svg" height="350"/>
