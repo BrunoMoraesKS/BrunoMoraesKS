@@ -6,4 +6,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMoraesKS&show_icons=true&theme=dark)
 
-![Bruno Moraes wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BrunoMoraesKS)
+[![Bruno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrunoMoraesKS)](https://github.com/anuraghazra/github-readme-stats)
