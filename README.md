@@ -1,6 +1,6 @@
 <h1> Hi, I am Bruno Moraes 👋 </h1>
 <h3> 👨🏻‍💻 My name is Bruno, I am 20 years old and I live in Araçatuba, São Paulo, Brazil. </h3>
-<h3> 🖥️ I work as a front-end developer, at <a target="_blank" href="https://firedev.com.br/">Firedev IT.</a></h3>
+<h3> 🖥️ I work as a front-end developer, at <a target="blank" href="https://firedev.com.br/">Firedev IT.</a></h3>
    
 <div><br>
   <a href="https://github.com/brunomoraesks">
