@@ -1,6 +1,6 @@
 <h1> Hi, I am Bruno Moraes 👋 </h1>
 <h3> 👨🏻‍💻 My name is Bruno, I am 21 years old and I live in Araçatuba, São Paulo, Brazil. </h3>
-<h3> 📚 I am currently doing a Software Engineering degree, which is expected to be concluded at 2025. </h3>
+<h3> 📚 I am currently pursuing a bachelor's degree in Software Engineering, which is expected to be concluded at 2025. </h3>
 <h3> 🖥️ I work as a front-end developer, at <a target="_blank" href="https://www.efrete.com.br/">e-frete. </a></h3>
    
 <div><br>
