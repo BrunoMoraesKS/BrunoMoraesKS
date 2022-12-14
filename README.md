@@ -3,12 +3,6 @@
 <h3> 📚 I am currently pursuing a bachelor's degree in Software Engineering, which is expected to be concluded at 2025. </h3>
 <h3> 🖥️ I work as a front-end developer, at <a target="_blank" href="https://www.efrete.com.br/">e-frete. </a></h3>
    
-<div><br>
-  <a href="https://github.com/brunomoraesks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomoraesks&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraesks&layout=compact&langs_count=7&theme=dark"/><br><br>
-</div>
-  
 
 <div style="display: inline_block"><br>
   
